@@ -1,6 +1,5 @@
-theme = "hugo-theme-codex"
+theme = "codex"
 
-# Override these settings with your own
 title = "Hi, I'm Jordi."
 languageCode = "en-us"
 baseURL = "https://jordinebot.me/"
@@ -54,13 +53,19 @@ copyright = "© {year}, Jordi Nebot"
   name = "Home"
   title = "Home"
   url = "/"
+  weight = 10
+
 [[menu.main]]
   identifier = "about"
   name = "About"
   title = "About"
-  url = "/about"
+  url = "/about/"
+  weight = 20
+
 [[menu.main]]
-  identifier = "blog"
+  identifier = "posts"
   name = "Blog"
   title = "Blog"
-  url = "/posts"
+  url = "/posts/"
+  weight = 30
+
