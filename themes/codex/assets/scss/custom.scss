@@ -1,0 +1,37 @@
+.post {
+  figure {
+    margin: 1.5em auto 0 auto;
+  }
+  figcaption {
+    color: #555;
+    p {
+      font-style: italic;
+      text-align: center;
+      margin-top: 0.5em;
+    }
+  }
+}
+
+.announcement {
+  color: #1e2025;
+  margin: 2em auto;
+  padding: 1em;
+  background-color: #f7f7f7;
+  font-style: italic;
+  border-radius: 6px;
+  font-size: 0.9em;
+  &-title {
+    font-weight: bold;
+  }
+  p {
+    margin-top: 0.5em;
+  }
+}
+
+blockquote {
+  &::before {
+    content: "";
+	z-index: auto;
+  }
+  font-style: italic;
+}
