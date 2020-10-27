@@ -4,10 +4,11 @@ date: 2020-04-01T17:18:39+02:00
 tags: [COVID-19, life]
 ---
 
-The start of this [COVID-19](https://en.wikipedia.org/wiki/Coronavirus_disease_2019) crisis caught me in New York City, where apparently the virus was coming at a lower pace than
-in my home town. Measures weren't applied in the City yet. Kids still were going to school, people gathered in pubs, and
-restaurants were crowded. And I wondered whether I would have any issues to fly back home or not. Besides an almost four
-hour delay, carried from the previous flight, as far as I know, everything was fine.
+The start of this [COVID-19](https://en.wikipedia.org/wiki/Coronavirus_disease_2019) crisis caught me in New York City,
+where apparently the virus was coming at a lower pace than in my home town. Measures weren't applied in the City yet.
+Kids still were going to school, people gathered in pubs, and restaurants were crowded. And I wondered whether I would
+have any issues to fly back home or not. Besides an almost four hour delay, carried from the previous flight, as far as
+I know, everything was fine.
 
 When I landed in Barcelona and left the airport I remember myself thinking that everything seemed pretty _normal_. I'd
 say the highway had the traffic you'd expect by the hour. Not packed, definitely not apocalypse-empty. As I drove closer

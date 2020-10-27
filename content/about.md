@@ -1,13 +1,26 @@
 ---
-title: "About"
+title: 'About'
 date: 2020-09-30T14:54:41+02:00
-tags: ['meta']
+tags: ['life']
 ---
-I'm a developer who loves the Web. I've been coding websites for two decades and I am making a living out of it since 2012.
 
-I studied Computer Engineering and I'm glad to know the web tech stack from TCP/IP up to CSS all the way through server configuration, networking, protocols, requests, headers, cookies, caching, optimization opportunities, the DOM, scripting...
+Hi, my name is Jordi, I like to think of myself as a web developer, or a
+[webmaster](https://justinjackson.ca/webmaster/) if you want. But in today's industry jargon I work as a Frontend
+Engineer at King, in Barcelona (well, at home because of the
+[pandemic](https://en.wikipedia.org/wiki/Coronavirus_disease_2019), you know).
 
-I've always enjoyed markup and styling layouts and since the appearance of Flexbox, CSS Grid, post-jQuery Javascript frameworks, and more and more Web APIs, Frontend Development has become exciting (and challenging!) enough for me to focus almost exclusively on this. 
+I really enjoy coding but nowadays I stay away from the computer as much as I can when I finish my daily work. I try to
+stay active, mostly by running or hiking as well as some eventual workout at home (never been a gym guy). I love
+[reading](https://www.goodreads.com/jordinebot) and taking care of home's plants.
 
+A while ago I left some of the main social media platforms (will probably write about that at some point) so the best
+way to contact me is through e-mail in `hola at jordinebot dot cat`. I'm still active in many places, though.
+Like:
 
-{{< figure caption="This is me eating a burger in Central Park" src="/images/IMG0197.jpg" >}}
+-   [GitHub](https://github.com/jordinebot/)
+-   [LinkedIn](https://www.linkedin.com/in/jnebot/)
+-   [Goodreads]( https://www.goodreads.com/jordinebot )
+-	[Keybase](https://keybase.io/jordinebot)
+-	Reddit
+
+{{< figure caption="Me, eating a burger in Central Park" src="/images/IMG0197.jpg" >}}
