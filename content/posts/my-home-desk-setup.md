@@ -1,11 +1,11 @@
 ---
-title: 'My Home Desk Setup'
+title: 'My home desk setup'
 date: 2020-10-27T19:56:54+01:00
-tags: ['gadgets']
+tags: ['hardware']
 ---
 
 I haven't had a decent home setup for many years, but having to work from home (which I'm kinda loving, tbh) required an
-update.
+update. This is how it looks like and what it has:
 
 {{< figure caption="My current WFH desk setup" src="/images/my-setup.jpg" >}}
 
