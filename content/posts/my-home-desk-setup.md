@@ -40,7 +40,7 @@ Genius charging interface.
 ## Webcam
 
 I use a [Logitech StreamCam](https://www.logitech.com/en-au/product/streamcam) that gets the job done. Enough video
-quality (FullHD) for Zoom, not the best sound. I choosed it mostly because it's USB-C.
+quality (FullHD) for Zoom, not the best sound. I chose it mostly because it's USB-C.
 
 ## Headphones
 
