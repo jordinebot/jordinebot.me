@@ -2,7 +2,6 @@
 title: 'How to create a React + Typescript Web Project with Rollup from scratch'
 date: 2020-10-31T18:59:00+01:00
 tags: [react, typescript, modules, rollup]
-draft: true
 ---
 
 This is how I started a React application with Typescript and Rollup from scratch. I try to do this kind of things from
