@@ -1,7 +1,7 @@
 ---
 title: 'Quarantine diary: my daily routine'
 date: 2020-04-06T16:08:13+02:00
-tags: [COVID-19, life]
+tags: [COVID, life]
 ---
 
 After twenty one days quarantined, I'd say I already adapted to my new daily routine. On weekdays, I get up at 7am.

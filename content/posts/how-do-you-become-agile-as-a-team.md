@@ -1,7 +1,7 @@
 ---
 title: "How do you become Agile as a team?"
 date: 2018-05-08T08:26:39+02:00
-tags: [agile, product management]
+tags: [agile, life]
 draft: false
 ---
 In the last years, both as a freelancer or working for a company, I've only been part of teams who produced using the

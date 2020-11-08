@@ -1,7 +1,7 @@
 ---
 title: "A better approach to include GPT Ads in a Vue.js Single-Page Application"
 date: 2018-10-28T19:50:34+01:00
-tags: [vue.js, spa, gpt, dfp]
+tags: [vue, ads]
 ---
 
 It's been a while since I wrote [Google Publisher Tag for DFP in a Vue.js Single-Page

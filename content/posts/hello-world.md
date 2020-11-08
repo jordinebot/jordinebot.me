@@ -1,7 +1,7 @@
 ---
 title: "Hello World"
 date: 2018-05-03T07:45:56+02:00
-tags: [meta]
+tags: [life]
 ---
 
 I am Jordi Nebot, a Web Developer from [Manresa](https://en.wikipedia.org/wiki/Manresa) (Barcelona). Check my

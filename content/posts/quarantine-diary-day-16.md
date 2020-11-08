@@ -1,7 +1,7 @@
 ---
 title: 'Quarantine diary: day 16th'
 date: 2020-04-01T17:18:39+02:00
-tags: [COVID-19, life]
+tags: [COVID, life]
 ---
 
 The start of this [COVID-19](https://en.wikipedia.org/wiki/Coronavirus_disease_2019) crisis caught me in New York City,

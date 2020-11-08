@@ -1,7 +1,7 @@
 ---
 title: "Google Publisher Tag for DFP in a Vue.js Single-Page Application"
 date: 2018-08-24T00:26:37+02:00
-tags: [vue.js, spa, gpt, dfp]
+tags: [vue, ads]
 ---
 
 {{% announcement title="Update on 28 Oct, 2018" %}}
@@ -15,8 +15,8 @@ the same features and identical UI, we achieved an average decrease of 55% in pa
 [dead](https://en.wikipedia.org/wiki/Dead_code) and [unreachable](https://en.wikipedia.org/wiki/Unreachable_code)
 code...)
 
-Anyway, I'd like to write about the solution I've used to have the Ads properly running with [Google Publisher Tag]
-(https://developers.google.com/doubleclick-gpt/) within a Single-Page Application. The site is some kind of search
+Anyway, I'd like to write about the solution I've used to have the Ads properly running with [Google Publisher
+Tag](https://developers.google.com/doubleclick-gpt/) within a Single-Page Application. The site is some kind of search
 engine so, to simplify, let's consider it has only a couple of templates:
 
 - Home page, with two Ad Units.
@@ -81,8 +81,8 @@ case and, of course, Vue.js doesn't allow using `script` tags inside templates e
 The obvious alternative was using Vue's Lifecycle hooks to define the Ads. But, which ones? in which component?
 
 Besides the leaderboard we've seen on the App Component, all the other Ads are on the component associated to the route
-that'll be used in the `<router-view/>` (or its children), so considering how the [lifecycle for parent/child components]
-(https://medium.com/@brockreece/vue-parent-and-child-lifecycle-hooks-5d6236bd561f) takes place, the safest
+that'll be used in the `<router-view/>` (or its children), so considering how the [lifecycle for parent/child
+components](https://medium.com/@brockreece/vue-parent-and-child-lifecycle-hooks-5d6236bd561f) takes place, the safest
 place to call `googletag.defineSlot()` seems to be the `mounted` hook in the current route component, since the call
 requires all `Advertising` tags to be rendered in the DOM.
 
@@ -169,9 +169,7 @@ method to my common ads module:
 ```javascript
 export function displayAds() {
     document.querySelector(".mysite-ad").forEach(node => {
-        googletag.cmd.push(function() {
-          googletag.display(node.id);
-        });
+        googletag.cmd.push(() => googletag.display(node.id));
     });
 }
 ```
@@ -213,9 +211,9 @@ export function destroySlots() {
 ```
 
 Of course, we need to destroy the slots before the execution of the `created` hook (that will create the new ones again)
-for the Page Component we're navigating to. We can achieve that in many Router [Navigation Guards]
-(https://router.vuejs.org/guide/advanced/navigation-guards.html#navigation-guards) or even in Page Component's
-`beforeCreate` lifecycle hook:
+for the Page Component we're navigating to. We can achieve that in many Router [Navigation
+Guards](https://router.vuejs.org/guide/advanced/navigation-guards.html#navigation-guards) or even in Page
+Component's `beforeCreate` lifecycle hook:
 
 ```javascript
 import { destroySlots as beforeCreate } from "@/common/ads";
@@ -239,4 +237,4 @@ _**Disclaimer:** I'm not a GPT/DFP expert at all but I've spent a decent amount 
 with Ads in a Vue.js SPA. The setup I tried to explain in this article worked well for me but it might probably be
 improved (e.g. I suspect there's no actual reason to destroy all slots when changing routes, some of them maybe you
 could just reuse). Anyway, I'll be glad if this can help anyone. Comments, questions, doubts, other approaches/theories,
-experiences are more than welcome.
+experiences are more than welcome._

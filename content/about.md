@@ -1,7 +1,7 @@
 ---
 title: 'About'
 date: 2020-09-30T14:54:41+02:00
-tags: ['life']
+tags: [life]
 ---
 
 Hi, my name is Jordi, I like to think of myself as a web developer, or a

@@ -30,7 +30,8 @@ single cable to my computer (that works as a charger as well). Totally recommend
 The keyboard has been my most recent acquisition. I wanted a keeb for a while, and not having anyone around while I work
 allowed me to get some loud clicky switches. After some [research](https://www.reddit.com/r/MechanicalKeyboards/) I fell
 in love with this [Varmilo VA87M Vintage
-days](https://en.varmilo.com/keyboardproscenium/subject_product_detailed?subjectid=45) with Cherry MX blues.
+days](https://en.varmilo.com/keyboardproscenium/subject_product_detailed?subjectid=45) with [Cherry MX
+blues](https://www.cherrymx.de/en/mx-original/mx-blue.html).
 
 ## Mouse
 
