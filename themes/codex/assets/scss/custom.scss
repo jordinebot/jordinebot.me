@@ -1,3 +1,11 @@
+.post-list {
+  .post {
+    &__title {
+      font-weight: bold;
+    }
+  }
+}
+
 .post {
   figure {
     margin: 1.5em auto 0 auto;
@@ -31,7 +39,60 @@
 blockquote {
   &::before {
     content: "";
-	z-index: auto;
+    z-index: auto;
   }
   font-style: italic;
+}
+
+pre {
+  --prompt-color: #556fff;
+  &.language-zsh,
+  &.language-bash {
+    background-color: transparent;
+    position: relative;
+    padding: 0 42px 0;
+    border-radius: 0;
+    &::before {
+      text-align: center;
+      width: 24px;
+      background-color: var(--prompt-color);
+      color: inherit;
+      content: "$";
+      display: inline-block;
+      left: 0;
+      position: absolute;
+    }
+    &::after {
+      left: 24px;
+      position: absolute;
+      top: 0;
+      border-color: transparent transparent transparent var(--prompt-color);
+      border-style: solid;
+      border-width: 11px 0 11px 10px;
+      content: "";
+      display: block;
+      height: 0;
+      width: 0;
+    }
+  }
+
+  &.language-error {
+    border-left: solid 5px #d73a49;
+    background-color: rgba(215, 58, 73, 0.05);
+  }
+
+  &.language-success {
+    border-left: solid 5px #28a745;
+    background-color: rgba(40, 167, 69, 0.05);
+  }
+}
+
+hr {
+  margin: 5em auto 0 auto;
+  height: 0;
+  border: 0;
+  border-bottom: dotted 1px #ccc;
+  & + * {
+    margin-top: 0.5em;
+  }
 }
