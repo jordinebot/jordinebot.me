@@ -1,6 +1,6 @@
 ---
 title: 'How to create a React + Typescript Web Project with Rollup from scratch'
-date: 2020-10-31T18:59:00+01:00
+date: 2020-11-08T18:59:00+01:00
 tags: [react, typescript, modules, rollup]
 ---
 
