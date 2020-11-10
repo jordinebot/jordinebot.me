@@ -14,7 +14,9 @@ update. This is how it looks like and what it has:
 The computer is a [MacBook Pro](https://support.apple.com/kb/SP776?locale=en_US) (15-inch, 2018) with a 2,6 GHz 6-Core
 Intel Core i7; 16 GB 2400 MHz DDR4, and a 1TB Flash Drive.
 
-I use it as a secondary monitor, but it works wonders as a heater as well. This thing burns.
+I use it as a secondary monitor, ~~but it works wonders as a heater as well. This thing burns.~~ **Update:** I'm
+thrilled with the extra cooling that I got with the [Twelve South
+Curve](https://www.twelvesouth.com/products/curve-for-macbook) stand.
 
 ## Monitor
 
