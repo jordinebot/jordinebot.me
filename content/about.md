@@ -11,7 +11,8 @@ Engineer at King, in Barcelona (well, at home because of the
 
 I really enjoy coding but nowadays I stay away from the computer as much as I can when I finish my daily work. I try to
 stay active, mostly by running or hiking as well as some eventual workout at home (never been a gym guy). I love
-[reading](https://www.goodreads.com/jordinebot) and taking care of home's plants.
+[reading](https://www.goodreads.com/review/list/32679880-jordi?shelf=currently-reading) and taking care of home's
+plants.
 
 A while ago I left some of the main social media platforms (will probably write about that at some point) so the best
 way to contact me is through e-mail in `hola at jordinebot dot cat`. I'm still active in many places, though.
