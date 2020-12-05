@@ -49,7 +49,7 @@ pattern = "(\d+)-(\d+) ([a-z]): ([a-z]+)"
 regex = re.compile(pattern)
 matches = regex.findall(sample)
 
-#Option 2: Non-compiled RegEx
+# Option 2: Non-compiled RegEx
 matches = re.findall(pattern, sample)
 ```
 
