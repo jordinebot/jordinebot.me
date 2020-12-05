@@ -59,7 +59,7 @@ What are the benefits of one over the other? Performance?
 
 ## Day 3: Toboggan Trajectory
 
-Sooner or later I expected some kind of graphic input, and _Tobbogan Trajectory_ was the first puzzle of this kind in
+Sooner or later I expected some kind of graphic input, and _Toboggan Trajectory_ was the first puzzle of this kind in
 2020.
 
 ```
@@ -116,5 +116,5 @@ def get_seat(boarding_pass):
 ```
 
 👨‍💻 [My solution](https://github.com/jordinebot/advent-of-code/blob/main/2020/day-5/main.py)(After some
-optimization)
+optimisation)
 
