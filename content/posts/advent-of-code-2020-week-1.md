@@ -123,6 +123,6 @@ It was funny how part 2 started saying _As you finish the last group's customs d
 
 The puzzle was an easy one about sets. Requiring union for part 1 (anyone) and intersection for part 2 (everyone).
 
-I learned about [_subscriptable_](https://stackoverflow.com/a/49588151/1534704) objects and kept practicing [packing/unpacking](https://stackabuse.com/unpacking-in-python-beyond-parallel-assignment/) with the `*` operator. Used to have only arrays and objects in JavaScript, I'm still overwhelmed by tuples, lists, maps, dicts...
+I learned about [_subscriptable_](https://stackoverflow.com/a/49588151/1534704) objects and kept practicing [packing/unpacking](https://stackabuse.com/unpacking-in-python-beyond-parallel-assignment/) with the `*` operator. Used to have only arrays and objects in JavaScript, I'm still overwhelmed by tuples, lists, maps, dicts... and their specifics.
 
 👨‍💻 [My solution](https://github.com/jordinebot/advent-of-code/blob/main/2020/day-6/main.py)
