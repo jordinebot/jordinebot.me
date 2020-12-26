@@ -1,10 +1,10 @@
 ---
 title: "Advent of Code 2020 (3rd week)"
-date: 2020-12-15T19:40:07+01:00
+date: 2020-12-21T19:40:07+01:00
 tags: ['programming', 'python', 'advent-of-code']
 ---
 
-There's been some days in which I really struggled to find a working solution (that provides an answer in a reasonable amount of time), but overall I'm really happy to have arrived that far.
+There's been some days in which I really struggled to find a working solution (that provides an answer in a reasonable amount of time) and I didn't even try day 20, but overall I'm really happy to have arrived that far. 
 
 ## Day 14: Docking Data
 
