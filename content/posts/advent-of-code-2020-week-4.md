@@ -4,7 +4,7 @@ date: 2020-12-27T12:56:37+01:00
 tags: ['programming', 'python', 'advent-of-code']
 ---
 
-I started the 4th week of Advent of Code without having completed all the puzzles from week 3 yet. I missed part 2 of day 18 and both parts of day 20. Still, I think the best approach it to prioritise the daily riddle before trying to finish the missing ones. So, lat week of Advent of Code 2020, here we go:
+I started the 4th week of Advent of Code without having completed all the puzzles from week 3 yet. I missed part 2 of day 18 and both parts of day 20. Still, I think the best approach it to prioritise the daily riddle before trying to finish the missing ones. So, last week of Advent of Code 2020, here we go:
 
 ## Day 21: Allergen Assessment
 After my fiasco on day 20, day 21 put me back on track. I solved the allergens problem with sets and set operations iterating my data until I got the ingredient for each allergen. It was a problem similar to day-16 (Ticket Translation).
