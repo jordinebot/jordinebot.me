@@ -98,6 +98,6 @@ Obviously I'm not specially proud of this one, but it got the job done.
 
 ## Day 20: Jurassic Jigsaw
 
-Jurassic Jigsaw was the only puzzle for which I didn't even get the first star. I started in late afternoon, it was Sunday, and the problem looked pretty complex... so I started creating some methods to get the borders of the tiles, I investigated how to use [NumPy](https://numpy.org/doc/stable/reference/routines.array-manipulation.html) for flipping and rotating arrays... and then I just gave up before even trying to write the algorithm to put everything together.
+Jurassic Jigsaw was the only puzzle for which I didn't even get the first star. I started in late evening, it was Sunday, and the problem looked pretty complex... so I started creating some methods to get the borders of the tiles, I investigated how to use [NumPy](https://numpy.org/doc/stable/reference/routines.array-manipulation.html) for flipping and rotating arrays... and then I just gave up before even trying to write the algorithm to put everything together.
 
 🤷‍♂️ No solution
