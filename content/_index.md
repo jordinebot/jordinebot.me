@@ -1,4 +1,4 @@
 ---
-heading: "Hola, I'm Jordi! 👋🏽"
-subheading: "Frontend developer at King in Barcelona."
+heading: "Hi, I'm Jordi! 👋🏽"
+subheading: "Frontend Developer, Barcelona."
 ---
