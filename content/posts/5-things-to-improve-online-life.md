@@ -57,7 +57,7 @@ If you can relate, I advice to give this a shot: remove the social media apps fr
 
 What to do instead? Always carry a book, for the long waits, listen to podcasts, audiobooks or just enjoy music. Discover some interesting facts, articles and news by checking [Hacker News](https://news.ycombinator.com/news) (not only tech related, regardless of its name) or subscribe to a few newsletters (this seems to be another golden era for them). For starters, I would recommend [Winning the Internet](https://pudding.cool/projects/newsletter/) a cool project by [The Pudding](https://pudding.cool/) that curates links from other newsletters based on their popularity.
 
-## Move away from _free_ critical services
+## Move away from free critical services
 
 How many times have you read this quote?
 
