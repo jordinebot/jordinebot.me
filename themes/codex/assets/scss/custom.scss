@@ -63,10 +63,8 @@ h2.post__title {
 
 blockquote {
   &::before {
-    content: "“";
-    z-index: -1;
+    display: none;
   }
-  font-family: Fredoka, serif;
   font-style: italic;
 }
 
