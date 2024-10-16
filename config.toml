@@ -1,6 +1,6 @@
 theme = "codex"
 
-title = "Hola, I'm Jordi."
+title = "Hi, I'm Jordi."
 languageCode = "en-us"
 baseURL = "https://jordinebot.me/"
 copyright = "© {year}, Jordi Nebot"
