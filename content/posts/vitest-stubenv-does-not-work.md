@@ -1,7 +1,8 @@
 ---
 title: "Vitest's vi.stubEnv does't work? Let's fix it"
-date: 2024-05-13T13:21:37+01:00
+date: 2025-12-13T13:21:37+01:00
 tags: [vitest, testing, react]
+comments: "Look at FL's App.test.tsx file for examples"
 draft: true
 ---
 
