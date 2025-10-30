@@ -1,4 +1,4 @@
-@import url("https://fonts.googleapis.com/css2?family=Fredoka:wght@300..700&display=swap");
+$fontFamily: Georgia, serif;
 
 h1,
 h2,
@@ -7,7 +7,7 @@ h4,
 h5,
 h6,
 .pagination__title {
-  font-family: Fredoka, serif;
+  font-family: $fontFamily;
 }
 
 .splash {
@@ -22,7 +22,7 @@ h6,
 
 h1#post__title,
 h2.post__title {
-  font-family: Fredoka, serif;
+  font-family: $fontFamily;
   font-weight: 600 !important;
 }
 
@@ -40,7 +40,7 @@ h2.post__title {
     }
   }
   &__content h2 {
-    font-family: Fredoka, serif;
+    font-family: $fontFamily;
     font-weight: 600;
   }
 }

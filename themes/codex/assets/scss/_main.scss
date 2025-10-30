@@ -16,7 +16,7 @@ main {
     padding-left: calc(1.5rem + #{$navWidth});
   }
 
-  @media screen and (max-width: $medium - 1) {
+  @media screen and (max-width: #{$medium - 1}) {
     padding-top: calc(3rem + #{$burgerContainerHeight});
   }
 }

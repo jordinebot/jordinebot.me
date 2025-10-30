@@ -40,10 +40,6 @@
   {{ end }} 
   {{ block "links" . }} {{ end }}
   {{ partial "seo-schema.html" .}}
-
-  {{- if not .Site.IsServer -}}
-      {{ template "_internal/google_analytics_async.html" . }}
-  {{- end -}}
 </head>
 
 <body>
