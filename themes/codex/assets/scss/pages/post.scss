@@ -53,6 +53,10 @@ $tocBreakpoint: 1024px;
     max-width: 500px;
     margin: 0 auto;
     display: block;
+
+    @media screen and (max-width: 720px) {
+      width: 100%;
+    }
   }
 }
 
