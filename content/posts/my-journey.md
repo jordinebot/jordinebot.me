@@ -1,6 +1,7 @@
 ---
 title: "My journey as a web developer"
 date: 2024-10-16T18:40:44+02:00
+tags: [programming, life]
 draft: true
 ---
 

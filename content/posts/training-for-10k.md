@@ -1,6 +1,7 @@
 ---
 title: "Training for 10K: Third time's a charm!"
 date: 2025-11-21T20:30:12+01:00
+tags: [running, training]
 draft: true
 ---
 
