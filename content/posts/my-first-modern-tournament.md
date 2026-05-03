@@ -118,7 +118,7 @@ He goes first, but I have an aggressive opening with goblins and Bushwhacker. He
 I bring in [Pithing Needle](https://scryfall.com/card/2x2/312/pithing-needle) for [Tamiyo](https://scryfall.com/card/mh3/242/tamiyo-inquisitive-student-tamiyo-seasoned-scholar?back) and Tormod's Crypt for Psychic Frog, and just in case [Murktide Regent](https://scryfall.com/card/mh2/52/murktide-regent) or [Goryo](https://scryfall.com/card/uma/99/goryos-vengeance) show up, but he has the perfect sideboard card against me: [Pest Control](https://scryfall.com/card/big/22/pest-control). He wipes my board and manages to flip and grow a Tamiyo. On his final turn he does not realize he has lethal by combining Tamiyo's ultimate with Psychic Frog, but I concede anyway because there is nothing I can do.
 
 **Game 3:**
-Very similar to game two. Pest Control, Bowmasters, and a few Fatal Pushes leave me with no options. Esper Control is probably my worst matchup. Special mention to [Quantum Riddler](https://scryfall.com/card/eoe/72/quantum-riddler), a new EOE card that fits beautifully into these Esper Control decks!
+Very similar to game two. Pest Control, Bowmasters, and a few Fatal Pushes leave me with no options. Esper Control is probably my worst matchup. Special mention to [Quantum Riddler](https://scryfall.com/card/eoe/72/quantum-riddler), a new [EOE](https://mtg.fandom.com/wiki/Edge_of_Eternities) card that fits beautifully into these Esper Control decks!
 
 **Result:** ❌ 1-2
 
@@ -156,5 +156,7 @@ I am on the play again and the story repeats itself. I have a good opening, but 
 ## Conclusions
 
 All in all, it turned out to be a very positive experience. Everyone I played against was very kind. The event was very well organized. I managed to get my playmat signed by Rebecca Guay, which had been the original reason I decided to sign up for the tournament.
+
+{{< figure src="/images/relic2025_playmat_rebecca_guay.jpg">}}
 
 The deck worked well enough and, overall, I do not think I made too many mistakes. I managed to win one match, which is more than I expected, and I won a total of 6 games out of the 21 I played, which meant I finished in 134th place out of 144 participants.
